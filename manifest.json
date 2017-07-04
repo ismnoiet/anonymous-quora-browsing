@@ -1,0 +1,22 @@
+{
+    "manifest_version":2,
+    "name":"Quora anonymous browsing",
+    "version":"1.0",
+    "author":" ismnoiet <ismnoiet@gmail.com>",
+    "description":"Browse quora threads anonymously without having to log in",
+    "page_action":{
+        "default_title":"Quora anonymous browsing"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "48":"icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "content_scripts":[
+        {
+            "matches":["https://www.quora.com/**"],
+            "js":["content_script.js"],
+            "run_at": "document_end"
+        }
+    ]
+}
