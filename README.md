@@ -1,7 +1,18 @@
 # anonymous-quora-browsing
 Chrome extension to browse Quora threads anonymously, without having to login in.
 
-If you are a developer clone this repository ... you know what to do next.
+To install this extension, you have two options:
 
-Here is the [chrome store link](https://chrome.google.com/webstore/detail/dkdbakokdlpecdkdmlkocdcpaaocceee/publish-accepted?hl=en&gl=001) to 
-download the extension.
+## Manually:
+1. Clone this repository or download the [zip file](https://github.com/ismnoiet/anonymous-quora-browsing/archive/master.zip)
+2. Open ``chrome://extensions`` in a new chrome tab
+3. Make sure developer mode option in the right upper area is checked
+4. Click on <kbd>Load unpacked extension</kbd> button
+5. Specify extension location and enjoy!
+
+## Automatically:
+Here is the [chrome store link](https://chrome.google.com/webstore/detail/dkdbakokdlpecdkdmlkocdcpaaocceee/publish-accepted?hl=en&gl=001),
+download and enjoy.
+
+
+*Happy reading!*
