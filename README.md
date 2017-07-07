@@ -11,7 +11,7 @@ To install this extension, you have two options:
 5. Specify extension location and enjoy!
 
 ## Automatically:
-Here is the [chrome store link](https://chrome.google.com/webstore/detail/dkdbakokdlpecdkdmlkocdcpaaocceee/publish-accepted?hl=en&gl=001)(open the link on a normal chrome window, not incognito),
+Here is the [chrome store link](https://chrome.google.com/webstore/detail/anonymous-quora-browsing/dkdbakokdlpecdkdmlkocdcpaaocceee)(open the link on a normal chrome window, not incognito),
 download and enjoy.
 
 
