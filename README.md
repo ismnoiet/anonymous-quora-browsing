@@ -14,5 +14,8 @@ To install this extension, you have two options:
 Here is the [chrome store link](https://chrome.google.com/webstore/detail/anonymous-quora-browsing/dkdbakokdlpecdkdmlkocdcpaaocceee)(open the link on a normal chrome window, not incognito),
 download and enjoy.
 
+## Credits:
+
+Thanks to @drusepth for suggesting the [param trick](https://github.com/ismnoiet/anonymous-quora-browsing/issues/1).
 
 *Happy reading!*
